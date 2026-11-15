@@ -1,0 +1,11 @@
+[
+  {"model": "Galaxy S22", "releaseYear": 2022, "ramGb": 8, "storageGb": 128, "batteryMah": 3700, "originalPrice": 350000},
+  {"model": "iPhone 14", "releaseYear": 2022, "ramGb": 6, "storageGb": 128, "batteryMah": 3279, "originalPrice": 500000},
+  {"model": "Pixel 6", "releaseYear": 2021, "ramGb": 8, "storageGb": 128, "batteryMah": 4614, "originalPrice": 280000},
+  {"model": "iPhone 15 Pro", "releaseYear": 2023, "ramGb": 8, "storageGb": 256, "batteryMah": 3274, "originalPrice": 600000},
+  {"model": "Galaxy S24 Ultra", "releaseYear": 2024, "ramGb": 12, "storageGb": 512, "batteryMah": 5000, "originalPrice": 700000},
+  {"model": "Xiaomi 14", "releaseYear": 2024, "ramGb": 12, "storageGb": 256, "batteryMah": 4610, "originalPrice": 450000},
+  {"model": "Nokia Budget", "releaseYear": 2023, "ramGb": 8, "storageGb": 64, "batteryMah": 4000, "originalPrice": 120000},
+  {"model": "Galaxy Z Fold 6", "releaseYear": 2024, "ramGb": 12, "storageGb": 512, "batteryMah": 4400, "originalPrice": 900000},
+  {"model": "Redmi Note 12", "releaseYear": 2023, "ramGb": 8, "storageGb": 128, "batteryMah": 5000, "originalPrice": 150000}
+]
